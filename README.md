@@ -33,14 +33,17 @@ La complejidad en la comunicación de datos y las diferentes demandas de los usu
 
 ---
 ## Certificados
+[**Networking Academy**](https://www.netacad.com/)
+
 1. **Primer corte**
-	* <sub>Introduction to Packet Tracer</sub>
+	* <sub>[Get Connected](https://www.netacad.com/courses/os-it/get-connected)</sub> 
+	* <sub>[Getting Started with Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)</sub>
 2. **Segundo corte**
-	* <sub>Introduction to IoT</sub>
-	* <sub>NDG Linux Unhatched</sub>
+	* <sub>[Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)</sub>
+	* <sub>[Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot)</sub>
 3. **Tercer corte**
-	* <sub>Cybersecurity Essentials</sub>
-	* <sub>NDG Linux Essentials</sub>
+	* <sub>[Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)</sub>
+	* <sub>[Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)</sub>	
 
 ---
 ## Material adicional
