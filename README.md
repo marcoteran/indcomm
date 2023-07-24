@@ -9,8 +9,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/marcoteran/indcomm?color=%23fa251e&logo=GitHub)](https://github.com/marcoteran/indcomm/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcotulioteran?style=social)
 </div>
----
 
+---
 ## Descripción del curso
 Las comunicaciones industriales son actualmente esenciales dentro del correcto planteamiento de la infraestructura de automatización; se han convertido de hecho en la columna vertebral de la que depende la continuidad de la producción.
 La complejidad en la comunicación de datos y las diferentes demandas de los usuarios han conducido a una gran variedad de protocolos industriales.
