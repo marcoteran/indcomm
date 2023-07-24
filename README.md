@@ -25,8 +25,6 @@ La complejidad en la comunicación de datos y las diferentes demandas de los usu
 ## Contenido
 0. **Presentación del curso *Comunicaciones industriales***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/indcomm/raw/master/lectures/00_indcomm_syllabus.pdf)
-1. **Introducción al Internet de las Cosas**
-	* Descargar presentación [[PDF]](https://github.com/marcoteran/indcomm/raw/master/lectures/01_indcomm_introduction.pdf)
 
 
 ---		
