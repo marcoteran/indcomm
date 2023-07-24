@@ -51,6 +51,11 @@ La complejidad en la comunicación de datos y las diferentes demandas de los usu
 
 ---
 ## Bibliografía
+1. Stallings, William. Comunicaciones y redes de computadores. Pearson Editores. Séptima Edición. 2005
+2. Douglas Comer. Interconectividad de redes con TCP/IP. Mc Graw Hill. Edición 2000
+3. Vicente Guerrero, Ramón L. Yuste, Luis Martínez. Comunicaciones industriales. Alfaomega. 2010
+4. Mandonado Perez, Enrique y otros. Autómatas programables. Entorno y aplicaciones. Thompson Learning. 2005. Madrid
+5. Rodriguez Penin, Aquilino. Sistema SCADA. Barcelona. MARCOMBO, 2007
 
 ---
 
