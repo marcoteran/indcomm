@@ -19,7 +19,7 @@ La complejidad en la comunicación de datos y las diferentes demandas de los usu
 
 #### Información de contacto:
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
-* **Telegram group:** [https://t.me/+DBMddxwzR-w5NDI5](https://t.me/+DBMddxwzR-w5NDI5)
+
 ---
 
 ## Contenido
