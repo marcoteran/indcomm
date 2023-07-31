@@ -26,6 +26,8 @@ La complejidad en la comunicación de datos y las diferentes demandas de los usu
 0. **Presentación del curso *Comunicaciones industriales***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/indcomm/raw/master/lectures/00_indcomm_syllabus.pdf)
 
+0. **Introducción a las *Comunicaciones industriales***
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/indcomm/raw/master/lectures/01_indcomm_introduction.pdf)
 
 ---		
 ## Laboratorios
